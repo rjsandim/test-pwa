@@ -1,11 +1,4 @@
 {
-  "name": "Meu PWA",
-  "short_name": "PWA",
-  "description": "Um Progressive Web App simples.",
-  "start_url": "https://rjsandim.github.io/test-pwa/",
-  "display": "standalone",
-  "background_color": "#240780",
-  "theme_color": "#bfb2b2",
   "icons": [
     {
       "src": "windows11/SmallTile.scale-100.png",
@@ -455,7 +448,5 @@
       "src": "ios/1024.png",
       "sizes": "1024x1024"
     }
-  ],
-  "id": "1.0.0",
-  "lang": "pt"
+  ]
 }
